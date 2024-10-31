@@ -107,6 +107,10 @@ public class Calculator extends Frame implements ActionListener {
         }
     }
 
+
+
+    
+
     private void clear() {
         textField.setText("");
         operator = "";
